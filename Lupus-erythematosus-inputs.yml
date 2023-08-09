@@ -1,0 +1,36 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/lupus-erythematosus-local-and-systemic-disseminated---primary.py
+inputModule3:
+  class: File
+  path: python/discoid-lupus-erythematosus-local-and-systemic---primary.py
+inputModule4:
+  class: File
+  path: python/lupus-erythematosus-local-and-systemic---primary.py
+inputModule5:
+  class: File
+  path: python/lupus---primary.py
+inputModule6:
+  class: File
+  path: python/other-lupus-erythematosus-local-and-systemic---primary.py
+inputModule7:
+  class: File
+  path: python/lupus-erythematosus-local-and-systemic-libmansacks---primary.py
+inputModule8:
+  class: File
+  path: python/lupus-erythematosus-local-and-systemic-measure---primary.py
+inputModule9:
+  class: File
+  path: python/lupus-erythematosus-local-and-systemic-activity---primary.py
+inputModule10:
+  class: File
+  path: python/lupus-erythematosus-local-and-systemic---secondary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
